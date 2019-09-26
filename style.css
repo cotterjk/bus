@@ -18,20 +18,21 @@ img {
 }
 
 h1 {
-    font-family: sans-serif;
     font-size: 34px;
     font-weight:400;
     color: #aaa;
     padding-top: 0.7em;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 p {
-    font-family: sans-serif;
     font-size: 18px;
     color: #aaa;
     line-height: 1.58;
     font-weight:400;
     margin-top: 21px;
+    font-family: 'Roboto Condensed', sans-serif;
+
 }
 
 .text-column {
