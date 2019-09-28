@@ -58,6 +58,11 @@ a:hover {
     margin: 64px auto;
 }
 
+.doodle-container {
+    width: 60%;
+    margin: 30px auto 0;
+}
+
 @media only screen and (max-width: 600px) {
   .text-column {
       width: 90%;
@@ -69,6 +74,9 @@ a:hover {
   }
   .logo-container {
       margin-bottom: 64px;
+  }
+  .doodle-container {
+      width: 100%;
   }
 }
 
