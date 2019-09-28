@@ -10,8 +10,9 @@ body {
 }
 
 .sketch-container {
-    width: 80%;
+    width: 60%;
     margin: auto;
+    max-width: 700px;
 }
 img {
   width:100%;
@@ -19,20 +20,28 @@ img {
 
 h1 {
     font-size: 34px;
-    font-weight:400;
+    font-weight:300;
     color: #aaa;
     padding-top: 0.7em;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 p {
     font-size: 18px;
     color: #aaa;
-    line-height: 1.58;
-    font-weight:400;
+    line-height: 1.4;
     margin-top: 21px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+}
 
+a {
+  text-decoration: none;
+  color: #296251;
+}
+
+a:hover {
+  color: #13436A;
 }
 
 .text-column {
